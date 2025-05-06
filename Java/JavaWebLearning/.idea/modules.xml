@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaWebLearning.iml" filepath="$PROJECT_DIR$/JavaWebLearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prog05-servlet/prog05-servlet.iml" filepath="$PROJECT_DIR$/prog05-servlet/prog05-servlet.iml" />
+    </modules>
+  </component>
+</project>
